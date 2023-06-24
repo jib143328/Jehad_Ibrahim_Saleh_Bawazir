@@ -1,0 +1,38 @@
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.exe.config
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.Form1.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.Properties.Resources.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.csproj.GenerateResource.Cache
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.exe
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.pdb
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.exe
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.pdb
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_login.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_Signup.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_Home.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_publisher.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_New_Add.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_Loading.resources
+E:\University\level 3\Projects\مشروع إدارة قواعد البيانات مستوى 3 الفصل 2\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.csprojResolveAssemblyReference.cache
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.exe.config
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.exe
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.pdb
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.exe
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.pdb
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_New_Add.resources
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_publisher.resources
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.Properties.Resources.resources
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.csproj.GenerateResource.Cache
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_load.resources
+E:\University\level 3\Semester 2\التدريب الميداني نمو سوفت\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_Close.resources
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.exe.config
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.exe
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.pdb
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.exe
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\bin\Debug\Is_there_new_2.pdb
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.csprojResolveAssemblyReference.cache
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_Close.resources
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_load.resources
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_New_Add.resources
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.FRM_publisher.resources
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.Properties.Resources.resources
+E:\University\level 3\Semester 2\Nmo_Soft\Is_there_new_2\Is_there_new_2\obj\Debug\Is_there_new_2.csproj.GenerateResource.Cache
